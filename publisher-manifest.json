@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2834c4b48f77848aed837399",
+  "owner": "ceuytahcswgz",
+  "repo": "page-45125746075a044d5d13ba0e",
+  "title": "SaySS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45125746075a044d5d13ba0e",
+      "a": "SaySS",
+      "b": "2027官方最新地址导航",
+      "entity": "SaySS",
+      "brand": "SaySS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af51e7811e16d4c3c17d9a3a4c0e8669b023a0857b71ca55027c213eac5153e9",
+      "content": {
+        "primary_entity": "SaySS",
+        "keyword1": "SaySS",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端、移动端与路由器各有适配方案，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更快",
+          "AI_DESCRIPTION": "，专注为跨境访问场景提供稳定线路与灵活订阅方案。基础版每月100GB流量适合单人或双设备轻度使用；旗舰版每月300GB并配备IPLC专线，满足流媒体与游戏加速需求；团队版每月1000GB可支持20台设备同时在线。三个套餐均支持按年付，年付价格分别为¥150、¥350和¥850，长期使用更划算。用户可根据日常流量、设备数量与线路要求挑选，再依照客户端文档完成订阅导入，跨平台使用更从容。",
+          "AI_FEATURES_INTRO": "从套餐档位到订阅周期，三处细节决定实际使用体验。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "轻度使用选基础版，100GB月流量足够浏览与社交；追剧游戏选旗舰版，300GB与IPLC专线更合适。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，按家庭或团队规模选择同时在线数量。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用优先年付。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "三步完成选择与配置，先明确需求再对照客户端文档操作。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "SaySS 提供基础版、旗舰版与团队版三档订阅，覆盖从个人轻度使用到团队多设备并发的不同场景。月付低至¥15，年付更省，流量从100GB到1000GB可选。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，月付¥15起",
+          "AI_HIGHLIGHT_2": "年付低至¥150，长期更省",
+          "AI_HIGHLIGHT_3": "最高20台设备同时在线",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。对比流量、设备数与线路特性，选择匹配自己使用强度的档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日均流量、常用设备数量与是否需要流媒体或游戏加速，再对应到具体档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与年付价格，确认满足日常使用强度。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成设置后即可在不同设备上使用。",
+          "AI_STEP_TITLE_1": "明确使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "SaySS 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，按日常设备数量选择对应档位即可。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，年付在基础版、旗舰版、团队版上分别仅需 ¥150、¥350、¥850，长期使用更省费用。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，对延迟和流媒体画质有要求的场景更合适。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中新建订阅，粘贴服务提供的订阅地址后保存并更新节点列表，具体步骤可参照客户端文档。",
+          "AI_FAQ_ANSWER_5": "先确认同时在线设备数量与每月流量需求，再对比三档套餐的流量、设备数与专线权益，选择最贴近使用习惯的一档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "SaySS 每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_3": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入 SaySS 订阅？",
+          "AI_FAQ_QUESTION_5": "如何判断自己适合哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ysqdazt.cn",
+    "host": "ysqdazt.cn"
+  },
+  "file_hashes": {
+    "index.html": "e9229b5f28430ccaa4da270b9a61bfc36ef878410400466bd5ca55b838722b93",
+    "sitemap.xml": "42eb5f14b1c033241142ff96d80964bab4bf89aa60b9543b626575cb544d34d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9a4ddba38734ce6e739ab43d331aa6b070169b819361102839da59dbbfe24307",
+    "robots.txt": "01991348d3110f5770d60e3d4d00a50d4d567dbb904a0fae42e53894b95e983a",
+    "1bf90e5866bc87331bad29e9268d96db.txt": "00bdb7833ca6bb543ee5a4c697ee7f8d5dfe2bdaa3fbc998473942206ad9dc7a"
+  },
+  "revision": "eb3c7170f46426b36d1938dcdda3492a4b1b1fcffbec4650ee2560d09654f9e4"
+}
